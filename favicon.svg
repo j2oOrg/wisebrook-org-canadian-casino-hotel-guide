@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Wisebrook</title>
+  <desc id="desc">A W above a flowing brook line</desc>
+  <rect width="64" height="64" rx="16" fill="#09181b"/>
+  <path d="M12 17l8.2 27L32 25.2 43.8 44 52 17" fill="none" stroke="#f5f0e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M10 50c8-5 14 5 22 0s14 5 22 0" fill="none" stroke="#6bbbae" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="52" cy="13" r="4" fill="#e96f55"/>
+</svg>

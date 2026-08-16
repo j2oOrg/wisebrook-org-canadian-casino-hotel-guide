@@ -33,4 +33,6 @@ Cloudflare Pages is connected to the GitHub repository, so every push to `main` 
 
 The zone uses Full (strict) origin encryption, redirects HTTP to HTTPS, requires TLS 1.2 or newer, and leaves Cloudflare email-address obfuscation off so published contact text is not rewritten.
 
+The published `contact@wisebrook.org` and `support@wisebrook.org` addresses are reserved but not yet mail-enabled. The site states this explicitly and does not expose dead `mailto:` links. Configure an approved mailbox or forwarding destination before changing that status.
+
 The production site does not use analytics, tracking cookies, user-agent-specific behavior, or third-party runtime embeds.
